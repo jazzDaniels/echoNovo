@@ -145,8 +145,9 @@ blockquote p {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+
+  width: max-content;
+  height: auto;
   z-index: 1;
   background-size: contain;
   background-attachment: scroll;
@@ -475,12 +476,12 @@ blockquote p {
 }
 
 #seveDiv {
-  margin-top: -190px;
+  margin-top: -490px;
 }
 
 .tekst {
   margin-top: 60px;
-  color: #949393;
+  color: #b5aeae;
   font-size: 30px;
   font-family: Font Awesome\5 Pro;
   letter-spacing: 3px;
@@ -502,7 +503,7 @@ blockquote p {
   text-transform: uppercase;
   letter-spacing: 7px;
 
-  background: -webkit-linear-gradient(#eee, #333);
+  background: -webkit-linear-gradient(#eee, rgb(138, 135, 135));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -2868,7 +2869,7 @@ blockquote p {
     padding-bottom: 20px;
   }
   .hero-section_title h2:before {
-    bottom: -30px;
+    bottom: 230px;
   }
 }
 @media only screen and (max-width: 564px) {
