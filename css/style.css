@@ -2219,7 +2219,7 @@ blockquote p {
 .custom-form input[type="email"] {
   float: left;
   border: none;
-  background: #222;
+  background: rgb(55, 54, 54);
   width: 100%;
   padding: 25px 30px;
   font-size: 12px;
@@ -2266,7 +2266,7 @@ blockquote p {
   font-family: "Poppins", sans-serif;
   border-radius: 0;
   color: #fff;
-  background: #222;
+  background: rgb(171, 163, 163);
 }
 .custom-form button:hover {
   background: #333;
@@ -3037,27 +3037,27 @@ blockquote p {
 }
 
 #lista_contact i:hover {
-  transform: scale(150%);
+  transform: scale(1.5);
   transition: 00.2s;
 }
 
 #lista_contact1 i:hover {
-  transform: scale(150%);
+  transform: scale(1.5);
   transition: 00.2s;
 }
 
 #home_contact li:hover {
-  transform: scale(50%);
+  transform: scale(1.5);
   transition: 00.2s;
 }
 
 #home_contact1 li:hover {
-  transform: scale(150%);
+  transform: scale(1.5);
   transition: 00.2s;
 }
 
 #home_contact2 li:hover {
-  transform: scale(150%);
+  transform: scale(1.5);
   transition: 00.2s;
 }
 #follow_contacts {
@@ -3070,15 +3070,10 @@ blockquote p {
   display: none;
 }
 
-.ion-social-facebook:hover,
-.ion-social-youtube:hover,
-.ion-social-instagram:hover {
-  transition: color 0.2s;
-}
-
 .ion-social-facebook:hover {
   color: #1877f2;
   transition: 00.2s;
+  transform: scale(1.2);
 }
 
 .ion-social-instagram:hover {
