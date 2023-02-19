@@ -2967,6 +2967,9 @@ blockquote p {
     line-height: 1;
     word-spacing: 5px;
   }
+  #seveDiv {
+    display: hidden;
+  }
 }
 
 .social_links li a:link,
