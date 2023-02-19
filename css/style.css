@@ -374,7 +374,7 @@ blockquote p {
 }
 .logo-holder img {
   width: auto;
-  height: 250px;
+  height: 150px;
 }
 .social_links {
   display: flex;
@@ -2632,7 +2632,7 @@ blockquote p {
     right: 23px;
   }
   .logo-holder {
-    top: 64px;
+    top: 24px;
     left: 10px;
   }
   .logo-holder img {
