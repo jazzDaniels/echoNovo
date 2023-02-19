@@ -2968,7 +2968,7 @@ blockquote p {
     word-spacing: 5px;
   }
   #seveDiv {
-    display: hidden;
+    display: none;
   }
 }
 
