@@ -2966,10 +2966,13 @@ blockquote p {
     letter-spacing: 3px;
     line-height: 1;
     word-spacing: 5px;
-    padding: 0;
+    
   }
   #seveDiv {
     display: none;
+  }
+  .textIzvodjac2 {
+    margin: 60px 10px;
   }
 }
 
