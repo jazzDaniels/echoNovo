@@ -2971,8 +2971,8 @@ blockquote p {
   #seveDiv {
     display: none;
   }
-  .textIzvodjac2 {
-    padding: 20px 20px;
+  #tekstSeve {
+    padding: 20px 10px;
   }
 }
 
