@@ -2650,10 +2650,11 @@ blockquote p {
     margin: 60px 0 30px 0;
   }
   .hero-section {
-    margin-bottom: 10px;
+    margin-bottom: 40px;
   }
   .hero-section_title h2 {
     font-size: 84px;
+    margin-top: 50px;
   }
   .single-post_title {
     margin-bottom: 0;
