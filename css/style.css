@@ -143,9 +143,7 @@ blockquote p {
 }
 .bg {
   position: absolute;
-  top: 170px;
-  left: 0;
-
+ 
   width: max-content;
   height: auto;
   z-index: 1;
