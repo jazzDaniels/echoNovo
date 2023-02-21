@@ -1858,6 +1858,7 @@ blockquote p {
 }
 .column-container {
   max-width: 1500px;
+  margin-top: -30px;
 }
 .single-post-container {
   max-width: 934px;
@@ -2654,6 +2655,10 @@ blockquote p {
   }
   .hero-section_title h2 {
     font-size: 84px;
+    
+    }
+    .hero-section_title {
+      margin-bottom: -70px;
     }
 
     #sec1 {
