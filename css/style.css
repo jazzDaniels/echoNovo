@@ -2654,8 +2654,11 @@ blockquote p {
   }
   .hero-section_title h2 {
     font-size: 84px;
-    margin-top: 50px;
-  }
+    }
+
+    #sec1 {
+      margin-top: 50px;
+    }
   .single-post_title {
     margin-bottom: 0;
   }
