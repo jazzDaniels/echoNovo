@@ -144,7 +144,7 @@ blockquote p {
 .bg {
   position: absolute;
   top: 30px;
- left: 0;
+  left: 0;
   width: 100%;
   height: auto;
   z-index: 1;
@@ -509,7 +509,7 @@ blockquote p {
 
 .hero-section_bg {
   overflow: hidden;
-  padding: 80px 0;
+  padding: 240px 0;
   z-index: 1;
 }
 .hero-sec_anim {
@@ -564,7 +564,7 @@ blockquote p {
   content: "";
   position: absolute;
   left: 50%;
-  bottom: -60px;
+  bottom: -160px;
   width: 50px;
   height: 2px;
   background: #fff;
@@ -2654,15 +2654,51 @@ blockquote p {
     margin-bottom: 40px;
   }
   .hero-section_title h2 {
+    margin-top: 10px;
     font-size: 84px;
-    
-    }
-   
+  }
+  .hero-section_bg {
+    overflow: hidden;
+    padding: 180px 0;
+    z-index: 1;
+  }
 
-    #sec1 {
-      margin-top: 50px;
-      margin-bottom: -70px;
-    }
+  #sec1 {
+    margin-top: 50px;
+    margin-bottom: -70px;
+  }
+
+  #sec2 {
+    margin-top: 50px;
+    margin-bottom: -170px;
+  }
+
+  #sec3 {
+    margin-top: 50px;
+  }
+  #heroTitle {
+    margin-bottom: -40px;
+  }
+  #contactText {
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    color: rgb(249, 247, 247);
+    font-weight: 600;
+  }
+
+  .bg {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    height: auto;
+    z-index: 1;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: repeat;
+    background-origin: content-box;
+  }
   .single-post_title {
     margin-bottom: 0;
   }
@@ -2876,7 +2912,7 @@ blockquote p {
     padding-bottom: 20px;
   }
   .hero-section_title h2:before {
-    bottom: 230px;
+    bottom: 120px;
   }
 }
 @media only screen and (max-width: 564px) {
@@ -2973,7 +3009,6 @@ blockquote p {
     letter-spacing: 3px;
     line-height: 1;
     word-spacing: 5px;
-    
   }
   #seveDiv {
     display: none;
@@ -3014,6 +3049,13 @@ blockquote p {
 
 .social_links:last-child {
   margin: 0;
+}
+
+#contactText {
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(175, 164, 164);
+  font-weight: 600;
 }
 
 #lista_contact i {
