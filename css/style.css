@@ -2912,7 +2912,7 @@ blockquote p {
     padding-bottom: 20px;
   }
   .hero-section_title h2:before {
-    bottom: 120px;
+    bottom: -20px;
   }
  
   
