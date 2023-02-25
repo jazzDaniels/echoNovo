@@ -2911,9 +2911,12 @@ blockquote p {
     font-size: 20px;
     padding-bottom: 20px;
   }
-  /* .hero-section_title h2:before {
+  .hero-section_title h2:before {
     bottom: 120px;
-  } */
+  }
+  #sec3 {
+    display: none;
+  }
 }
 @media only screen and (max-width: 564px) {
   .container,
