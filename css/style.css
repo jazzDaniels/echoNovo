@@ -281,10 +281,10 @@ blockquote p {
   position: fixed;
   right: 140px;
   display: none;
-  height: 0px;
-  width: 0px;
+  height: 38px;
+  width: 38px;
   cursor: pointer;
-  top: 20px;
+  top: 16px;
   z-index: 50;
 }
 
