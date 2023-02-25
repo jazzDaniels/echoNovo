@@ -277,7 +277,7 @@ blockquote p {
   padding: 6px 15px;
   letter-spacing: 0px;
 }
-.nav-button-wrap {
+/* .nav-button-wrap {
   position: fixed;
   right: 140px;
   display: none;
@@ -286,7 +286,7 @@ blockquote p {
   cursor: pointer;
   top: 20px;
   z-index: 50;
-}
+} */
 
 .ikonaMenu {
   font-size: 40px;
