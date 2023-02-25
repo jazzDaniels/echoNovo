@@ -397,17 +397,10 @@
       });
     </script>
     <script>
+    const str = undefined;
 
-      var str = "EHSAN";
-
-      var toId  = function(text) {
-
-      return str.toLowerCase().replace(/[^a-z0-9]/g, '');
-
-      }
-
-     alert(toId());
-
-  </script>
+    const result = typeof str === 'string' ? str.toLowerCase() : '';
+    
+    console.log(result); // 👉️ ""</script>
   </body>
 </html>
