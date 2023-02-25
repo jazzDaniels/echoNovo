@@ -2914,9 +2914,7 @@ blockquote p {
   .hero-section_title h2:before {
     bottom: 120px;
   }
-  .hero-section_titleSec3 h2:before {
-    bottom: -20px;
-  }
+ 
   
 }
 @media only screen and (max-width: 564px) {
