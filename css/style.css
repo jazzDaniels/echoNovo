@@ -2914,7 +2914,7 @@ blockquote p {
   .hero-section_title h2:before {
     bottom: 120px;
   }
-  .hero-section_titleSec3 {
+  .hero-section_titleSec3 h2:before {
     bottom: -20px;
   }
   
